@@ -1,3 +1,9 @@
+---
+layout: post
+title: How to disagree
+secondary: read
+---
+
 I just went through this old (2008) [article](http://www.paulgraham.com/disagree.html) on how we should disagree. 
 I found the introduction to be very insightful and, unfortunately, quite spot on.
 
