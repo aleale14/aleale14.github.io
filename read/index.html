@@ -10,7 +10,8 @@ title: Words & Opinions
 
 	  {% for post in site.posts %}
 		{% if post.secondary != null %}
-		<li><span>{{ read.date | date_to_string }}</span> » <a href="{{ read.url }}" title="{{ read.title }}">{{ read.title }}</a></li>
+		{% else %}
+		<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 		{% endif %}
 	  {% endfor %}
 	</ul>
