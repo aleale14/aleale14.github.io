@@ -6,9 +6,11 @@ title: Words & Opinions
         		<h1>Words & Opinions </h1>
 			<h2> A collection of what I'm reading / watching / listening and my comments about them </h2>
 				
-	<ul class="reads">
+	<ul class="posts">
 
-	  {% for read in site.reads %}
-	    <li><span>{{ read.date | date_to_string }}</span> » <a href="{{ read.url }}" title="{{ read.title }}">{{ read.title }}</a></li>
+	  {% for post in site.posts %}
+		{% if post.secondary == 'read' %}
+		<li><span>{{ read.date | date_to_string }}</span> » <a href="{{ read.url }}" title="{{ read.title }}">{{ read.title }}</a></li>
+		{% endif %}
 	  {% endfor %}
 	</ul>
