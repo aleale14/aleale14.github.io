@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Educazione ITA-GER
-date: {}
+date: 2019-09-06
 published: true
 ---
 
