@@ -2,11 +2,12 @@
 layout: post
 title: Go slow to be fast
 secondary: read
+published: true
 ---
 
 You really need the time to think things through if you aim at mastering them - reading somebody else opinion and making it your own is a lazy approach, you are just scratching the surface of the issue and you are most probably missing out on the possibility to deep link the new topics with the bulk of your knowledge.
 
-Link to article: https://fs.blog/2015/08/in-praise-of-slowness/
+Link to article: [Farnam Street Blog](https://fs.blog/2015/08/in-praise-of-slowness/)
 
 Few snippets:
 
@@ -15,3 +16,6 @@ Few snippets:
 * We live in a world with more information than ever and yet we understand less.
 
 * Thinking requires time and space. It’s slow. It means saying I don’t know.
+
+![slow.jpg]({{site.baseurl}}/images/slow.jpg)
+
