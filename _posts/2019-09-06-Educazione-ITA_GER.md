@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Educazione ITA-GER
-date: 2019-09-06
+date: {}
 published: true
 ---
 
@@ -24,4 +24,5 @@ Il modello tedesco considera molto meglio di quella italiano la diversità della
 
 Quale modello preferisco? In media res stat virtus... una combinazione dei due. In un periodo di cambiamento rapido come quello che stiamo vivendo, credo che una base ampia, la capacità di imparare e continuare a farlo, la capacità di adattarsi ed essere flessibili siano caratteristiche assolutamente imprescindibili, ma debbano essere complementate da una stretta connessione con il mondo del lavoro a livello globale, ottime capacità sociali ed un'apertura nativa a culture e realtà diverse.
 
-![blackboard-3946404_1920.jpg]({{site.baseurl}}/images/blackboard-3946404_1920.jpg)
+![blackboard-3946404_1920(1).jpg]({{site.baseurl}}/images/blackboard-3946404_1920(1).jpg)
+
