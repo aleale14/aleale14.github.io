@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Emigranti
-date: 2019-09-10T00:00:00.000Z
+date: 2019-09-10
 ---
 ## Emigranti
 
