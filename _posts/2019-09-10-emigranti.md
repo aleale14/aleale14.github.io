@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+title: Emigranti
+date: 2019-09-10T00:00:00.000Z
 ---
 ## Emigranti
 
@@ -16,6 +19,9 @@ Nell'infografica non ci sono dati sulle competenze delle persone in movimento, m
 Alla società servono entrambi i profili, ma in Italia ci si focalizza principalmente sulla formazione accademica, perdipiù senza collegarla alle opportunità effettivamente disponibili sul mercato nazionale ed ai suoi bisogni futuri. 
 
 Perchè investire nella formazione di determinati profili se le possibilità che trovino sbocchi sul mercato lavorativo italiano sono minime? 
+
 Perchè non sottolineare la necessità e la rilevanza di professioni non connesse con titoli di accademici?
+
 Perchè dimenticarsi della tradizione dell'apprendistato, un qualcosa che viene decantato in Germania e copiato in Francia?
+
 Perchè ottenere il "pezzo di carta" dovrebbe essere più importante che imparare un mestiere?
