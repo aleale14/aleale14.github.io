@@ -15,6 +15,7 @@ permalink: shh19
 <img src="/images/IMG_20190911_111409554.jpg" alt="IBM_quote" width="600"/>
 
 * The tide seems to be shifting - AI (and analytics tools) are more and more widespread but they are becoming uncool again, the focus is moving more towards onboarding people, coaching them about digital capabilities and offering them easy paths to continuously learn and create new ways of working. In such a context, capturing people capabilities, anticipating future needs in terms of technology/mindset/activities/culture and bridging the gap via personalized development path (i.e. combination of on the job experiences and targeted trainings, more and more experiential ones)
+
 <img src="/images/IMG_20190911_101344308.jpg" alt="PeopleFocus" width="600"/>
 
 <img src="/images/IMG_20190911_121350114.jpg" alt="MindsetChange" width="600"/>
