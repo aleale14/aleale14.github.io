@@ -1,8 +1,9 @@
 ---
-published: false
+published: true
 layout: post
 title: Solutions Hamburg 2019 – Strategy Day
 secondary: read
+permalink: shh19
 ---
 
 ## Few comments back from my day at the Solutions Hamburg Event:
