@@ -6,7 +6,7 @@ secondary: read
 permalink: shh19
 ---
 
-## Few comments back from my day at the Solutions Hamburg Event:
+## Few comments from my day at the Solutions Hamburg Event:
 
 * The keynote presentation by Gapminder was very enjoyable and quite informative (even if a bit stale and quiet if you used to watch Hans Rosling's TED presentation): it was a pity it was a non sequitur compared with the rest of the conference.
 * From a strategy day in a top conference, I had expected to get many insights in new trends, strategic projects and technical solution: unfortunately I was pretty much disappointed, I felt more as being the target of a continuous sales pitch supported by slim project based evidence than brought up to speed on what's going on outside my company and provided a vision of the future.
