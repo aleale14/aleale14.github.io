@@ -6,6 +6,8 @@ tag: italia europe eu people peopleanalytics GDPR dataprotection
 permalink: data_dottore
 ---
 
+<img src="/images/Jan_steen,_la_visita_del_dottore,_1660-62_ca._02[1].jpg" alt="Jan Steen Wikimedia Commons" width="600"/>
+
 \- Salve, ho un appuntamento dal dermatologo.
 
 \- Ah sì, per favore firmi la liberatoria sul trattamento dei dati - è una formalità, sa con la nuova legge siamo obbligati a richiedere il suo consenso.
@@ -29,4 +31,3 @@ Spero Margarethe Vestager, appena nominata vice presidente esecutiva dell'Unione
 
 PS: sentivo stamane l'ultima puntata del podcast di Walter Vannini [DataKnightmare](https://www.spreaker.com/show/dataknightmare) ed annuivo sorridendo alle sue esplosioni sul GDPR e sul trattamento dei dati - se siete interessati a questi temi, seguitelo!
 
-<img src="/images/Jan_steen,_la_visita_del_dottore,_1660-62_ca._02[1].jpg" alt="Jan Steen Wikimedia Commons" width="600"/>
