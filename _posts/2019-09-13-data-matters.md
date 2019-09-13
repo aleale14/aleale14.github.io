@@ -31,4 +31,4 @@ Spero Margarethe Vestager, appena nominata vice presidente esecutiva dell'Unione
 
 PS: sentivo stamane l'ultima puntata del podcast di Walter Vannini [DataKnightmare](https://www.spreaker.com/show/dataknightmare) ed annuivo sorridendo alle sue esplosioni sul GDPR e sul trattamento dei dati - se siete interessati a questi temi, seguitelo!
 
-![Jan Steen Wikimedia Commons]({{site.baseurl}}/images/Jan_steen,_la_visita_del_dottore,_1660-62_ca._02[1].jpg)
+<img src="/images/Jan_steen,_la_visita_del_dottore,_1660-62_ca._02[1].jpg" alt="Jan Steen Wikimedia Commons" width="600"/>
