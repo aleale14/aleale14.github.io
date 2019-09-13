@@ -6,14 +6,12 @@ tag: italia europe eu people peopleanalytics GDPR dataprotection
 permalink: data_dottore
 ---
 
-
-# Data Matters - dal dottore (in Germania)
-
 \- Salve, ho un appuntamento dal dermatologo.
 
 \- Ah sì, per favore firmi la liberatoria sul trattamento dei dati - è una formalità, sa con la nuova legge siamo obbligati a richiedere il suo consenso.
 
 La segretaria del mio dermatologo mi passa un bel foglio in cui si dice che: 
+
 * acconsento al trasferimento di tutti i miei dati ad una società terza responsabile per il pagamento e contestualmente libero lo studio medico da ogni responsabilità a tal riguardo
 * acconsento al trasferimento di tutti i miei dati ad altri dottori e laboratori nonchè istituti di ricerca
 * confermo di essere stato informato di come i miei dati verranno trattati e gestiti
