@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Data Matters - dal dottore (in Germania)
 tag: italia europe eu people peopleanalytics GDPR dataprotection
