@@ -19,7 +19,7 @@ So, how to cope with recruitment activities?
 From one side, I am very eager to get to know the candidates, to understand how they tick and how they could make our company better.
 From another side I really get bored of carrying out structured interviews, with the same questions being asked over and over again (and no, unstructured interviews are a no go as comparing candidates in a fair manner would very very challenging).
 
-The way I try to minimize the downside related to the recruitment activities is then to pepper the structured interview with a bunch of open questions pushing the candidates to be creative, to improvise, to adapt, to learn from the interviewing panel's reactions to previous questions.
+The way I try to minimize the downside related to the recruitment activities is then to pepper the structured interview with a bunch of open questions, questions that uncover capabilities, not just experience, pushing the candidates to be creative, to improvise, to adapt, to learn from the interviewing panel's reactions to previous questions.
 
 Few examples here:
 
