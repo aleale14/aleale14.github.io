@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Questions for Job Interview
+title: 11 not so boring questions for your next job interview
 secondary: read
 permalink: recruitingquestions
 ---
