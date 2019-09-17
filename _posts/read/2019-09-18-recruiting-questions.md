@@ -1,11 +1,10 @@
 ---
 published: true
 layout: post
-title: Questions
+title: Questions for Job Interview
 secondary: read
 permalink: recruitingquestions
 ---
-
 <img src="https://live.staticflickr.com/8821/17150746928_976705aa17_b.jpg" alt="Job Interview" width="600"/>
 
 ###### image: thedailyenglishshow.com
