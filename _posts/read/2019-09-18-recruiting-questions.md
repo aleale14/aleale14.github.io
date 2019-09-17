@@ -6,9 +6,9 @@ secondary: read
 permalink: recruitingquestions
 ---
 
-<img src="https://svgsilh.com/svg/156130.svg" alt="Hands" width="600"/>
+<img src="https://live.staticflickr.com/8821/17150746928_976705aa17_b.jpg" alt="Job Interview" width="600"/>
 
-###### https://svgsilh.com/image/156130.html
+###### image: thedailyenglishshow.com
 
 I'm curious and I really enjoy asking questions as they are a wonderful way to learn, to understand and to get closer to know a topic.
 
@@ -28,7 +28,7 @@ Few examples here:
 
 <img src="https://www.skillsconverged.com/Portals/5/DownloadImages/My_Life_Curve.jpg" alt="Hands" width="600"/>
 
-###### https://www.skillsconverged.com/Portals/5/DownloadImages/My_Life_Curve.jpg
+###### image: https://www.skillsconverged.com/Portals/5/DownloadImages/My_Life_Curve.jpg
 
 * Can you describe your ideal work environment? 
 * How do you define success?
@@ -41,3 +41,4 @@ Few examples here:
 * Which book would you recommend?
 
 PS: **feedback** is a gift and I do aim at providing it to all candidates I interview. It is a matter of respect and a very good way for candidates to learn from the experience.
+
