@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: 9 Domande per gli ospiti
+title: 11 Domande per gli ospiti
 tag: italia ospiti
 permalink: domande_ospiti
 ---
@@ -14,7 +14,7 @@ Nelle prossime settimane proverò a convincere amici e conoscenti italiani resid
 
 Chiederò a tutti di rispondere ai seguenti punti:
 
-0. Nome, Cognome, contatto (email / LinkedIn / Facebook)
+1. Nome, Cognome, contatto (email / LinkedIn / Facebook)
 1. In massimo 60 parole, dimmi chi sei e cosa fai
 1. Dove vivi? 
 1. Da dove vieni?
