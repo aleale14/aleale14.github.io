@@ -3,7 +3,7 @@ published: true
 layout: post
 title: Italiani all'estero - Intervista ad Alessandro Alessandrini 
 tag: italia ospiti
-permalink: domande_ospiti
+permalink: intervista_00
 ---
 
 <img src="http://www.tivolitouring.com/wp-content/uploads/2013/11/panorama1.jpg" alt="Tivoli - Casa" width="600"/>
