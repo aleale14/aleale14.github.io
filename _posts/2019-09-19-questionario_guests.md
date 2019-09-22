@@ -20,7 +20,7 @@ Chiederò a tutti di rispondere ai seguenti punti:
 1. Da dove vieni?
 1. Dov'è casa?
 1. Quando hai deciso di emigrare? Perchè? 
-1. Escludendo sole, mare, cibo e calcio, cosa vorresti importare dall'Italia nel tuo contesto di vita attuale (max 2 punti)?
+1. Escludendo sole, mare, cibo, calcio ed il bidet, cosa vorresti importare dall'Italia nel tuo contesto di vita attuale (max 2 punti)?
 1. Al contrario, cosa vorresti importare in Italia dal tuo contesto di vita attuale (max 2 punti)?
 1. Rispetto a quando sei andato via, si sta meglio o peggio in Italia? Quali macro cambiamenti hai notato?
 1. Pensi di rientrare in Italia? Nel caso, quali condizioni dovrebbero verificarsi?
