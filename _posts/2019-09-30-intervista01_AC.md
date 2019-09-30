@@ -27,10 +27,12 @@ Ho deciso di uscire dall’Italia ai tempi dell’università, fine anni ‘90, 
 Università europee, sono riuscito a vedere “da dentro” - quindi non solo da turista - tanti posti in Europa. Con molte persone conosciute in quei viaggi sono ancora in contatto e alcuni di loro sono venuti al mio matrimonio.
 Ho deciso di rimanere fuori dall’Italia nel 2010, dopo aver finito un MBA a USC in California e aver acquisito competenze che praticamente non mi venivano riconosciute da noi
 ## 7. Escludendo sole, mare, cibo, calcio ed il bidet, cosa vorresti importare dall'Italia nel tuo contesto di vita attuale (max 2 punti)? #
-Sinceramente, le sole cose che mi mancano dell’Italia sono gli affetti e la culture, specie in queste prime settimane di lavoro a Dubai. Camminare per le strade di Roma avendo il lusso di entrare in una chiesa per vedere un quadro di Caravaggio o perdersi tra i Fori Romani è una cosa che mi è sempre mancata da quando ho lasciato la mia città. 
+Sinceramente, le sole cose che mi mancano dell’Italia sono gli affetti e la cultura, specie in queste prime settimane di lavoro a Dubai. Camminare per le strade di Roma avendo il lusso di entrare in una chiesa per vedere un quadro di Caravaggio o perdersi tra i Fori Romani è una cosa che mi è sempre mancata da quando ho lasciato la mia città. 
 ## 8. Al contrario, cosa vorresti importare in Italia dal tuo contesto di vita attuale (max 2 punti)? #
 Dagli US - il patriottismo, la fierezza e il grandissimo senso di appartenenza ad una comunità dove tutti sono americani prima di qualsiasi altra cosa
+
 Dagli UK - la meritocrazia in ambito lavorativo: non importa da dove vieni ma, se vali, sono pronto ad affidarti un ruolo di responsabilità e a retribuirti adeguatamente
+
 Dagli UAE - la continua spinta ad innovare: il paese si basa su una fonte di ricchezza che tenderà a finire e da sempre sta cercando di creare valore in ambiti più diversi. Trovo incredibile che Dubai, letteralmente una cattedrale nel deserto, abbia più visitatori per anno di Roma!
 ## 9. Rispetto a quando sei andato via, si sta meglio o peggio in Italia? Quali macro cambiamenti hai notato? #
 Si sta peggio. La gente è più arrabbiata, è focalizzata su dettagli urlati e ripetuti continuamente da politici senza scrupoli e si dimentica quali sono i propri valori. E questo accade indipendentemente dal sesso, etnia ed estrazione sociale. Un tempo costruivamo ponti per far stare tutti meglio facendo crescere la ricchezza complessiva, adesso costruiamo muri per difendere quel poco che abbiamo. E ci impoveriamo inaridendoci.  
