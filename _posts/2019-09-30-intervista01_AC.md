@@ -3,7 +3,7 @@ published: true
 layout: post
 title: Italiani all'estero - Intervista ad Andrea Caputo 
 tag: italia ospiti
-permalink: intervista01
+permalink: intervista_01
 ---
 
 <img src="https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.worldfortravel.com%2Fwp-content%2Fuploads%2F2015%2F02%2FBurj-Khalifa-Former-Burj-Dubai.jpg&f=1&nofb=1" alt="Dubai" width="600"/>
