@@ -3,7 +3,7 @@ published: true
 layout: post
 title: Learning Vs. Piece of Paper
 secondary: read
-permalink: learning_paper
+permalink: learningpaper
 ---
 
 <img src="https://images.pexels.com/photos/54597/leave-board-hand-learn-54597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Learning/Edu" width="600"/>
