@@ -10,17 +10,15 @@ permalink: L_D_Principles
 
 ###### image: https://www.cedefop.europa.eu
 
-Upskilling, reskilling, learning, continuous learning, development, automation, digitalisation:
+4 principles for **Learning & Development**:
 
-4 Principles for learning & development:
+1 Individualized (but collaborative)
 
-    1 Individualized (but collaborative)
+2 Targeted (but open)
 
-    2 Targeted (but open)
+3 Intertwined with practical experience (but based on first principles)
 
-    3 Intertwined with practical experience (but based on first principles)
-
-    4 Emotionally relevant (but dry)
+4 Emotionally relevant (but dry)
 
 ---
 
