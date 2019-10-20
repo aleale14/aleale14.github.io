@@ -14,10 +14,15 @@ Upskilling, reskilling, learning, continuous learning, development, automation, 
 
 4 Principles for learning & development:
 
-#### 1. Individualized (but collaborative)
-#### 2. Targeted (but open)
-#### 3. Intertwined with practical experience (but based on first principles)
-#### 4. Emotionally relevant (but dry)
+    1 Individualized (but collaborative)
+
+    2 Targeted (but open)
+
+    3 Intertwined with practical experience (but based on first principles)
+
+    4 Emotionally relevant (but dry)
+
+---
 
 ## Individualized (but collaborative)
 Each one of us is a talent.
