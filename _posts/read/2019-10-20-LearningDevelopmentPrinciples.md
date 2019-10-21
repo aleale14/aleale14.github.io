@@ -31,6 +31,8 @@ Each one of us reacts to different stimuli.
 Learning & Development activities shall be highly personalized and individualized to ensure maximum benefit.
 At the same time the learner should not be left alone: to interact and exchange with others in dedicated communities of practice, to learn from each other and to support each other are key enhancing aspects of the development process.
 
+> Talent = Individual + Context
+
 ## Targeted (but open)
 Each learning and development activity should be focused and targeted.
 It follows, you need to know where you are, from where you are starting your journey, and where you want to land. You need to measure your status, track your progress towards your goal and have a clear measure of success.
