@@ -14,7 +14,7 @@ permalink: L_D_Principles
 
 1 Individualized (but collaborative)
 
-2 Targeted (but open)
+2 Targeted and deliberate (but open)
 
 3 Intertwined with practical experience (but based on first principles)
 
@@ -33,7 +33,7 @@ At the same time the learner should not be left alone: to interact and exchange 
 
 > Talent = Individual + Context
 
-## Targeted (but open)
+## Targeted and deliberate (but open)
 Each learning and development activity should be focused and targeted.
 It follows, you need to know where you are, from where you are starting your journey, and where you want to land. You need to measure your status, track your progress towards your goal and have a clear measure of success.
 
