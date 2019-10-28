@@ -6,9 +6,9 @@ secondary: read
 permalink: LeanLearningPeople
 ---
 
-<img src="https://www.clipartwiki.com/clipimg/detail/4-48912_mind-clipart-lifelong-learning-lifelong-learning-clipart.png" alt="Life Long Learning" width="600"/>
+<img src="http://algetler.com/wp-content/uploads/2013/04/Lifelong-learning.jpg" alt="Life Long Learning" width="600"/>
 
-###### image: https://www.clipartwiki.com
+###### image: https://www.algetler.com
 
 > `The only way to win is to learn faster than anyone else` _E. Ries_
 
