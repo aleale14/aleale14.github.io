@@ -14,15 +14,13 @@ permalink: LeanLearningPeople
 
 In [Where Companies Go Wrong with Learning and Development](https://hbr.org/2019/10/where-companies-go-wrong-with-learning-and-development) Steve Glaveski describes key aspect of lean learning. 
 
-` 
-Lean learning is about:
+` Lean learning is about:`
 
-    Learning the core of what you need to learn
-    Applying it to real-world situations immediately
-    Receiving immediate feedback and refining your understanding
-    Repeating the cycle
-
-`
+    `- Learning the core of what you need to learn`
+    `- Applying it to real-world situations immediately`
+    `- Receiving immediate feedback and refining your understanding`
+    `- Repeating the cycle`
+ 
 These points match pretty much with the 4 [Learning & Development Principles](http://aleale14.github.io/L_D_Principles) I sketched out few days ago.
 
 Considering the current situation, I very much agree with the author of the [article](https://hbr.org/2019/10/where-companies-go-wrong-with-learning-and-development) that 
