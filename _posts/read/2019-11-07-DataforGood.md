@@ -9,14 +9,13 @@ permalink: dataforgood
 ![datagood.jpg]({{site.baseurl}}/images/datagood.jpg)
 
 
-- Who has the data?
-    - Mainly private actors
-- What they use them for?
-    - To increase their bottom line.
-- Does society as a whole benefit from it?
-    - Barely (and I'm being optimistic).
-- Could society benefit from unlocking currently private-held data?
-    - Most definitely yes.
+Who has the data? Mainly private actors.
+
+What they use them for? To increase their bottom line.
+
+Does society as a whole benefit from it? Barely (and I'm being optimistic).
+
+Could society benefit from unlocking currently private-held data? Most definitely yes.
 
 Following my [post](https://aleale14github.io/podcasts_yourundividedattention) on the Undivided Attention blog, I was suggested an article by [Alberto Alemanno](https://www.linkedin.com/in/alemanno) - [Unlocking Privately-Held Data to the Benefit of the Many](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3194040).
 
