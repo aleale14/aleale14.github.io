@@ -1,9 +1,9 @@
 ---
 published: true
 layout: post
-title: Italiani all'estero - Intervista ad Andrea Caputo 
+title: Italiani all'estero - Intervista a Dino Ricci 
 tag: italia ospiti
-permalink: intervista_01
+permalink: intervista_02
 ---
 
 <img src="https://i.ytimg.com/vi/ZVcJVmyjhyw/maxresdefault.jpg" alt="Seoul" width="600"/>
