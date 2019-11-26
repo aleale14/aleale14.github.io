@@ -15,9 +15,9 @@ Due to my consulting activities, I had the possibility to appreciate and see in 
 
 Generally speaking, I experienced 3 different approaches:
 
-1. Inferring competences from activities performed
-2. Assessing competences based on a more or less strict framework
-3. Providing an overview of generic competences needed for generic roles
+## 1. Inferring competences from activities performed
+## 2. Assessing competences based on a more or less strict framework
+## 3. Providing an overview of generic competences needed for generic roles
 
 Size of the company and even more the width of the sectors covered are definitely relevant differentiating factors, but I find that often the best approach for a specific company is more driven by the cultural fit than anything else.
 
