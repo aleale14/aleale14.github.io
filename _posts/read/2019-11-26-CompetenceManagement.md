@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Competence Management Approaches
+title: Competency Management Approaches
 secondary: read
 permalink: compmgmnt_approach
 ---
@@ -13,7 +13,7 @@ permalink: compmgmnt_approach
 
 Due to my consulting activities, I had the possibility to appreciate and see in action various competency management systems.
 
-Generally speaking I experienced 3 different approaches:
+Generally speaking, I experienced 3 different approaches:
 
 1. Inferring competences from activities performed
 2. Assessing competences based on a more or less strict framework
@@ -28,9 +28,10 @@ A **competence** is the demonstrated ability to apply knowledge, skills and atti
 The goal of a **competency management system** is to make employees better, supporting upskilling and reskilling, being able to deliver today while being proactively preparing for the (long term) future.
 
 
-### 1. Inferring competences from activities performed
+## 1. Inferring competences from activities performed
 In this approach, from the output generated, you infer the competences needed.
 I see more and more automatic inference systems based on machine learning algorithms and really a minimum human involvement in the process. These types of system are (still?) prone to errors, but at the same time are able to spot many unnoticed competences analyzing different data, not just HR ones.  
+
 - PRO
     - if performed automatically, it is a "cold", efficient, fully data driven process able to derive competences consistently and homogeneously.
     - direct connection output - competences
@@ -42,8 +43,10 @@ I see more and more automatic inference systems based on machine learning algori
     - more and more outputs are generate by a group, not by an individual - it is a challenge to identify who has which competence in the group (and btw, in a good functioning group I'd expect the sum of the parties to be better than each individual...)
     - thinking out of the box is not recognized - no competences on top of those included in the dataset for the specific activiy are considered potentially leading to infer incorrect competences while missing out on more relevant ones.
     - to evaluate the level of proficiency of a competence, only the activity performed may not be enough - other factors like time/resources needed, environmental and cultural constraints, business impact, etc. should be accounted for.
-### 2. Assessing competences based on a more or less strict framework
+
+## 2. Assessing competences based on a more or less strict framework
 A broad and detailed competency reference catalogue is created, competences needed to carry out each position in the company are then captured and finally employee's competences are assessed (usually by their direct manager). 
+
 - PRO
     - based on regular interaction between the employee and manager leveraging upon a detailed catalogue of competences and assessment guidelines.
     - flexible framework, potentially able to capture all employee's experiences and wishes as well as current and future company needs (at least if properly implemented...)
@@ -51,9 +54,11 @@ A broad and detailed competency reference catalogue is created, competences need
     - consistency in the assessment is a big challenge: the larger the company, the higher the number of managers assessing employees, the more difficult to ensure a consistent assessment.
     - very often, the catalogue lags behind and does not capture emerging competences, thus making very difficult if not impossible to identify and start to groom employees with capabilities in emerging areas.
     - effort to maintain and update the competence catalogue could be consistent.
-    - somewhat low employee experience - feeling of being put in a box and unclear individual value proposition if not properly connected with development possibilities
-### 3. Providing an overview of generic competences needed for generic roles
+    - somewhat low employee experience - feeling of being put in a box and unclear individual value proposition if not properly connected with development possibilities.
+
+## 3. Providing an overview of generic competences needed for generic roles
 Generic personae reflecting muster profiles in the company are created and employees are asked to emulate these role models.
+
 - PRO
     - very easy to setup, update and modify.
     - can be used to set up a minimum common denominator among groups of employees.
