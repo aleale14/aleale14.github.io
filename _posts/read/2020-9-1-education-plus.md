@@ -11,9 +11,11 @@ permalink: education_plus
 
 In the last few days I read with interest an [article](https://seths.blog/2020/08/from-education-to-learning/) by Seth Godin on education vs. learning (another great one on the topic...), [one](https://drjohnsullivan.com/articles/questioning-the-value-of-a-college-degree-pandemic-hiring-lesson-7/) by [Dr. John Sullivan](https://www.linkedin.com/in/dr-john-sullivan) on the value of a college degree and chipped in on a [discussion](https://www.linkedin.com/posts/paolo-de-caro-a3974126_googles-plan-to-disrupt-the-college-degree-activity-6704659934031745024-VdMp) initiated by [Paolo de Caro](https://www.linkedin.com/in/paolo-de-caro-a3974126/) on how Google plan to disrupt education.
 Then I started mulling over what I got out of my formal, post-high school education.
+
 ***
 >    **Education doesn't prepare you for the real world - Shane Parrish, The Great Mental Models Vol.1**
 ***
+
 I got degrees from the [University La Sapienza in Rome](http://www.aeroeng.uniroma1.it/), from [Cranfield University](https://www.cranfield.ac.uk/) and from the [IE](https://www.ie.edu/).
 
 From 1997 till 2002 I studied aerospace engineering at University La Sapienza in Rome. The course was very theoretical and very broad, very disconnected from the industrial reality.
@@ -44,9 +46,11 @@ Cranfield is in the middle of nowhere but every year welcomes thousands of stude
 I opened up, I totally understood that people make the difference, but I've to admit I was still pretty much technically focused and put people behind (too far behind?).
 
 But what happens when you join a technically focused company like Airbus?
+
 ***
->    *I'm an engineer - assume I'm always right*
+>    **I'm an engineer - assume I'm always right**
 ***
+
 There are tens of thousands of very good engineers and, thankfully, it is quite common to get very different technical opinions. How do you bring forward your own "right" approach?
 
 I started working on a structure I never studied before, the floor beams, made in a relatively basic aluminum alloy, no composites or new fancy alloys.
