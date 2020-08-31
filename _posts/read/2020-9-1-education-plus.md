@@ -88,7 +88,12 @@ I feel the real plus I got from my formal education are a bunch of by-products:
 
 - the strong belief that people make the difference, they do it in a multitude of disparate ways and it's better if I facilitate it (or at very minimum I do not hinder it).
 
-Could I've got these pluses without a formal education? Nowadays, very probably yes, at least providing that somebody would have pointed me in the right direction, I had listened to the advice and fully bought into it. Honestly, not so realistic.
-Furthermore, would the world (i.e. recruiters & companies) have welcomed me in the same way without a proper education? I really don't think so.
+Could I've got these pluses without a formal education? 
+
+Nowadays, very probably yes, at least providing that somebody would have pointed me in the right direction, I had listened to the advice and fully bought into it. Honestly, not so realistic.
+
+Furthermore, would the world (i.e. recruiters & companies) have welcomed me in the same way without a proper education? 
+
+I really don't think so.
 
 I'm curious: what did you get out of your formal education?
