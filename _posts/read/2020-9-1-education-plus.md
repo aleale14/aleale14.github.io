@@ -14,6 +14,7 @@ Then I started mulling over what I got out of my formal, post-high school educat
 
 ***
 >    **Education doesn't prepare you for the real world - Shane Parrish, The Great Mental Models Vol.1**
+
 ***
 
 I got degrees from the [University La Sapienza in Rome](http://www.aeroeng.uniroma1.it/), from [Cranfield University](https://www.cranfield.ac.uk/) and from the [IE](https://www.ie.edu/).
@@ -49,6 +50,7 @@ But what happens when you join a technically focused company like Airbus?
 
 ***
 >    **I'm an engineer - assume I'm always right**
+
 ***
 
 There are tens of thousands of very good engineers and, thankfully, it is quite common to get very different technical opinions. How do you bring forward your own "right" approach?
